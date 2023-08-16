@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from aoc2022py.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "aoc2022py"
